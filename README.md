@@ -10,4 +10,4 @@
       
  - We are given month wise sales data for 2019 and the **task is to generate key insights which will help the sales team of Kmart to take some key business decisions towards finetuning their sales strategy.**
 
-- This project consists of **Exploratory Data Analysis** of the data for the Online salesof the retailer.
+- This project consists of **Exploratory Data Analysis** of the data for the Online channel of the retailer.
